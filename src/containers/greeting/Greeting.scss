@@ -55,8 +55,11 @@
   line-height: 40px;
 }
 
+.greeting-image-div {
+  text-align: center;
+}
 .greeting-image-div > img {
-  max-width: 60%;
+  max-width: 80%;
   height: auto;
   object-fit: contain;
 }
