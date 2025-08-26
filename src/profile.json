@@ -1,0 +1,120 @@
+{
+  "data": {
+    "user": {
+      "name": "Sanket Majithiya",
+      "bio": "Hi, my name is Sanket Majithiya, I am a FullStack python Developer, Please follow me for more sample code on web development and other domain as well.",
+      "isHireable": false,
+      "avatarUrl": "https://github.com/Sanketmajithiya",
+      "location": "surat, India",
+      "pinnedItems": {
+        "totalCount": 6,
+        "edges": [
+          {
+            "node": {
+              "name": "ShoppingX-Eshop-project",
+              "description": "🛒 A full-featured Django-based eCommerce application with cart, orders, payments, and admin panel.",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 4
+              },
+              "url": "https://github.com/Sanketmajithiya/ShoppingX-Eshop-project",
+              "id": "R_kgDOJ5IG3g",
+              "diskUsage": 22844,
+              "primaryLanguage": {
+                "name": "python-Django",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+              "node": {
+                  "name": "zara",
+                  "description": "🛍️ A full-featured eCommerce web app with product browsing, cart, and user auth built using TypeScript & modern frameworks.",
+                  "forkCount": 0,
+                  "stargazers": {
+                      "totalCount": 3
+                    },
+                    "url": "https://github.com/Sanketmajithiya/zaraprojectlive",
+                    "id": "MDEwOlJlcG9zaXRvcnkzMzM0MTIzNzE=",
+                    "diskUsage": 1240,
+                    "primaryLanguage": {
+                        "name": "Django",
+                        "color": "#3572A5"
+                    }
+                }
+            },
+            {
+              "node": {
+                "name": "react-node-cli",
+                "description": "This cli contains the core node js code to serve react build and commnads file to make a final release build with both node and react combined.",
+                "forkCount": 0,
+                "stargazers": {
+                  "totalCount": 1
+                },
+                "url": "https://github.com/Sanketmajithiya/react-node-cli",
+                "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
+                "diskUsage": 4925,
+                "primaryLanguage": {
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              }
+            },
+            {
+              "node": {
+                "name": "webscraping-company-data-fetch",
+                "description": "A Python-based web scraping project to extract company contact details such as emails and phone numbers  from various websites.",
+                "forkCount": 0,
+                "stargazers": {
+                  "totalCount": 1
+                },
+                "url": "https://github.com/Sanketmajithiya/webscraping-company-data-fetch",
+                "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
+                "diskUsage": 2925,
+                "primaryLanguage": {
+                  "name": "Python",
+                  "color": "#3572A5"
+                }
+              }
+            },
+            {
+              "node": {
+                "name": "2",
+                "description": ".",
+                "forkCount": 0,
+                "stargazers": {
+                  "totalCount": 1
+                },
+                "url": "https://github.com/Sanketmajithiya/",
+                "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
+                "diskUsage": 4925,
+                "primaryLanguage": {
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              }
+            },
+          {
+            "node": {
+              "name": "Institute Management System",
+              "description": "A Django-based web application for managing students, teachers, departments, clubs, and library books. Features include user registration with OTP verification, department-wise assignment, and secure password recovery system.",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 1
+              },
+              "url": "https://github.com/Sanketmajithiya/TOPS_PYTHON/tree/main/python%20ALL%20assesments/institute%20Management%20assesment",
+              "id": "R_kgDOGpM-3Q",
+              "diskUsage": 48119,
+              "primaryLanguage": {
+                "name": "python",
+                "color": "#3572A5"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+
+
