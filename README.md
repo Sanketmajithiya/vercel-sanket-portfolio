@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-<img src="./githubImages/image.png"></img>
+<img src="./githubImages/homepage.png"></img>
   </kbd>
 </p>
 
