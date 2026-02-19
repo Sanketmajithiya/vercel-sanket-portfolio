@@ -1,7 +1,7 @@
-import React, {useContext} from "react";
+import React, { useContext } from "react";
 import "./StartupProjects.scss";
-import {bigProjects} from "../../portfolio";
-import {Fade} from "react-reveal";
+import { bigProjects } from "../../portfolio";
+import { Fade } from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
 
 export default function StartupProject() {
@@ -13,7 +13,7 @@ export default function StartupProject() {
     win.focus();
   }
 
-  const {isDark} = useContext(StyleContext);
+  const { isDark } = useContext(StyleContext);
   if (!bigProjects.display) {
     return null;
   }
@@ -44,12 +44,29 @@ export default function StartupProject() {
                   }
                 >
                   {project.image ? (
-                    <div className="project-image">
+                    <div
+                      className="project-image"
+                      style={
+                        project.projectName === "Medical Chatbot"
+                          ? { height: "300px", display: "flex", alignItems: "center", justifyContent: "center" }
+                          : project.projectName === "Bird Bidding App"
+                            ? { height: "250px", display: "flex", alignItems: "center", justifyContent: "center" }
+                            : project.projectName === "Hamro Blood bank"
+                              ? { display: "flex", alignItems: "center", justifyContent: "center" }
+                              : {}
+                      }
+                    >
                       <img
                         src={project.image}
                         alt={project.projectName}
                         className="card-image"
-                        style={{width:150}}
+                        style={
+                          project.projectName === "Medical Chatbot"
+                            ? { width: "300px", height: "auto" }
+                            : project.projectName === "Bird Bidding App"
+                              ? { width: "250px", height: "auto" }
+                              : { width: 150 }
+                        }
                       ></img>
                     </div>
                   ) : null}
@@ -64,7 +81,7 @@ export default function StartupProject() {
                         isDark ? "dark-mode card-subtitle" : "card-subtitle"
                       }
                     >
-                     {project?.role}
+                      {project?.role}
                     </p>
                     <p
                       className={
