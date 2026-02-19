@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "fetch": "node fetch.js",
     "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
-    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+    "build": "cross-env CI=false NODE_OPTIONS=--openssl-legacy-provider node fetch.js && react-scripts build",
     "deploy": "firebase deploy",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
