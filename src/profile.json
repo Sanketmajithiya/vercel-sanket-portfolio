@@ -27,84 +27,84 @@
             }
           },
           {
-              "node": {
-                  "name": "zara",
-                  "description": "🛍️ A full-featured eCommerce web app with product browsing, cart, and user auth built using TypeScript & modern frameworks.",
-                  "forkCount": 0,
-                  "stargazers": {
-                      "totalCount": 3
-                    },
-                    "url": "https://github.com/Sanketmajithiya/zaraprojectlive",
-                    "id": "MDEwOlJlcG9zaXRvcnkzMzM0MTIzNzE=",
-                    "diskUsage": 1240,
-                    "primaryLanguage": {
-                        "name": "Django",
-                        "color": "#3572A5"
-                    }
-                }
-            },
-            {
-              "node": {
-                "name": "react-node-cli",
-                "description": "This cli contains the core node js code to serve react build and commnads file to make a final release build with both node and react combined.",
-                "forkCount": 0,
-                "stargazers": {
-                  "totalCount": 1
-                },
-                "url": "https://github.com/Sanketmajithiya/react-node-cli",
-                "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
-                "diskUsage": 4925,
-                "primaryLanguage": {
-                  "name": "JavaScript",
-                  "color": "#f1e05a"
-                }
+            "node": {
+              "name": "zara",
+              "description": "🛍️ A full-featured eCommerce web app with product browsing, cart, and user auth built using TypeScript & modern frameworks.",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 3
+              },
+              "url": "https://github.com/Sanketmajithiya/zaraprojectlive",
+              "id": "MDEwOlJlcG9zaXRvcnkzMzM0MTIzNzE=",
+              "diskUsage": 1240,
+              "primaryLanguage": {
+                "name": "Django",
+                "color": "#3572A5"
               }
-            },
-            {
-              "node": {
-                "name": "webscraping-company-data-fetch",
-                "description": "A Python-based web scraping project to extract company contact details such as emails and phone numbers  from various websites.",
-                "forkCount": 0,
-                "stargazers": {
-                  "totalCount": 1
-                },
-                "url": "https://github.com/Sanketmajithiya/webscraping-company-data-fetch",
-                "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
-                "diskUsage": 2925,
-                "primaryLanguage": {
-                  "name": "Python",
-                  "color": "#3572A5"
-                }
-              }
-            },
-            {
-              "node": {
-                "name": "2",
-                "description": ".",
-                "forkCount": 0,
-                "stargazers": {
-                  "totalCount": 1
-                },
-                "url": "https://github.com/Sanketmajithiya/",
-                "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
-                "diskUsage": 4925,
-                "primaryLanguage": {
-                  "name": "JavaScript",
-                  "color": "#f1e05a"
-                }
-              }
-            },
+            }
+          },
           {
             "node": {
-              "name": "Institute Management System",
-              "description": "A Django-based web application for managing students, teachers, departments, clubs, and library books. Features include user registration with OTP verification, department-wise assignment, and secure password recovery system.",
+              "name": "react-node-cli",
+              "description": "This cli contains the core node js code to serve react build and commnads file to make a final release build with both node and react combined.",
               "forkCount": 0,
               "stargazers": {
                 "totalCount": 1
               },
-              "url": "https://github.com/Sanketmajithiya/TOPS_PYTHON/tree/main/python%20ALL%20assesments/institute%20Management%20assesment",
+              "url": "https://github.com/Sanketmajithiya/react-node-cli",
+              "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
+              "diskUsage": 4925,
+              "primaryLanguage": {
+                "name": "JavaScript",
+                "color": "#f1e05a"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "advanced-webscraping-company-data-extractor-fullstack",
+              "description": "A comprehensive full-stack solution for extracting company data. Built with Python and modern web technologies to scrape, process, and display business intelligence.",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 2
+              },
+              "url": "https://github.com/Sanketmajithiya/advanced-webscraping-company-data-extractor-fullstack.git",
+              "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
+              "diskUsage": 3500,
+              "primaryLanguage": {
+                "name": "Python",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "AI-health-chatbot",
+              "description": "An intelligent medical chatbot powered by AI to assist with health-related queries. Deployed via Hugging Face Spaces for easy access.",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 5
+              },
+              "url": "https://github.com/Sanketmajithiya/AI-health-chatbot.git",
+              "id": "MDEwOlJlcG9zaXRvcnkzODM0MzI1MTU=",
+              "diskUsage": 5200,
+              "primaryLanguage": {
+                "name": "Python",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "sales-data-analyzer",
+              "description": "A Python-based tool to extract and analyze sales data, providing insightful visualizations and reports for business intelligence.",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 2
+              },
+              "url": "https://github.com/Sanketmajithiya/sales-data-analyzer.git",
               "id": "R_kgDOGpM-3Q",
-              "diskUsage": 48119,
+              "diskUsage": 4015,
               "primaryLanguage": {
                 "name": "python",
                 "color": "#3572A5"
@@ -116,5 +116,3 @@
     }
   }
 }
-
-
