@@ -245,6 +245,30 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/bird_bidding_app_logo5.png"),
+      projectName: "Bird Bidding App",
+      projectDesc: "A dynamic auction platform for bird enthusiasts built with Django. Features include real-time bidding, user authentication, and a responsive dashboard for managing listings.",
+      role: "Full Stack Developer",
+      footerLink: [
+        {
+          name: "View Live Now",
+          url: "https://birdbiddingapp.pythonanywhere.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Medical-chat-bot.png"), // TODO: Replace with new logo
+      projectName: "Medical Chatbot",
+      projectDesc: "An AI-powered medical assistant deployed on Hugging Face Spaces. It uses advanced NLP to provide preliminary medical information and health assistance.",
+      role: "AI Engineer",
+      footerLink: [
+        {
+          name: "View Live Now",
+          url: "https://huggingface.co/spaces/sanket-ai-builder/medical-chatbot"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/hamro_blood_bank_logo.png"),
       projectName: "Hamro Blood bank",
       projectDesc: `Hamro Blood Bank aimed to efficiently connect blood donors and recipients by addressing challenges in traditional systems.`,
@@ -255,34 +279,6 @@ const bigProjects = {
           url: "https://www.hamrobloodbank.com"
         }
         //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/chfn-logo.png"),
-      projectName: "Compassionate Hands For Nepal",
-      projectDesc: `The CHF Nepal website aimed to showcase the organization’s
-extensive eforts across 16 districts.`,
-      role: "Full-end Developer",
-      footerLink: [
-        {
-          name: "View Live Now",
-          url: "https://www.chfnepal.org"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/seema-logo.png"),
-      projectName: "Seema Portal",
-      projectDesc: `The project aimed to streamline border and immigration management
-by creating a centralized platform to handle administrative tasks,
-improve data accuracy, and enhance operational e
-ciency`,
-      role: "Full-end Developer",
-      footerLink: [
-        {
-          name: "View Live Now",
-          url: "https://seema.moha.gov.np"
-        }
       ]
     },
     {
