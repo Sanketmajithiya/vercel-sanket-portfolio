@@ -27,11 +27,11 @@ const greeting = {
   resumeLinks: [
     {
       name: "India",
-      link: "https://drive.google.com/file/d/1RFxq3Q_OcaQofladtuahZwOeaoKDXD1g/view?usp=sharing"
+      link: "https://drive.google.com/file/d/1Vb3qpy308BCj-wCVh6-pN1MiHCvouq3W/view?usp=drive_link"
     },
     {
       name: "USA",
-      link: "https://drive.google.com/file/d/1RFxq3Q_OcaQofladtuahZwOeaoKDXD1g/view?usp=sharing"
+      link: "https://drive.google.com/file/d/1Vb3qpy308BCj-wCVh6-pN1MiHCvouq3W/view?usp=drive_link"
     }
 
   ],
